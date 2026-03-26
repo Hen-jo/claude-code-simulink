@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "name": "short_run",
+      "stopTime": "1.0",
+      "parameters": {
+        "StopTime": "1.0"
+      }
+    },
+    {
+      "name": "longer_run",
+      "stopTime": "5.0",
+      "parameters": {
+        "StopTime": "5.0"
+      }
+    }
+  ]
+}
